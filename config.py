@@ -7,19 +7,19 @@ class Config(object):
     # A name for users - Required (str)
     BOT_NAME_FOR_USERS = "JVideoAll_bot" #name in database #do not change it
     # Add all admin id's as a list - Required (lst[int])
-    ADMIN = [7162515331]
+    ADMIN = []
     # Add your telegram API ID - Required (int)
-    API_ID = 26144828
+    API_ID = 
     # Add your Telegram API HASH - Required (str)
-    API_HASH = "b919076fc2b1ceb3229c41d43d0dd8b6"
+    API_HASH = ""
     # Add your telegram bot token (str)
-    BOT_TOKEN = "8338592726:AAEgGZssgWyUTjwVHnNq6qQjAqx5q9AGggI"
+    BOT_TOKEN = ""
     # Add telegram Log channel Id - Required (int)
-    LOGS_ID = -1002733624990
+    LOGS_ID = 
     # Add main channel to subscribe - Required (int)
-    SUBSCRIBE_CHANNEL = -1002733624990
+    SUBSCRIBE_CHANNEL = 
     # Add subscription channel - Required (str)
-    SUBSCRIBE_CHANNEL_URL = "https://t.me/botlogtest123"
+    SUBSCRIBE_CHANNEL_URL = ""
     MAX_FILE_SIZE_GB = 10  # GiB
     # Download timeout in seconds (2 hours = 7200 seconds)
     DOWNLOAD_TIMEOUT = 7200 # in seconds
@@ -31,7 +31,7 @@ class Config(object):
     # Cookie file URL
     # EX: "https://path/to/your/cookie-file.txt"
     COOKIE_URL = ""
-    YOUTUBE_COOKIE_URL = "https://openlist.passionated.cn/d/123Open/cookies/youtube-cookies%20(1).txt?sign=h1vq9WIL6FT-D8Dbx-XnSLxy8l_TIomhpUbnIEu5H0I=:0"
+    YOUTUBE_COOKIE_URL = ""
     INSTAGRAM_COOKIE_URL = ""
     TWITTER_COOKIE_URL = ""
     TIKTOK_COOKIE_URL = ""
